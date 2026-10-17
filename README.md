@@ -36,4 +36,5 @@ Validasi:
 
 ## Dokumentasi
 
-[Video Dokumentasi](PeopleData/Dokumentasi/Screen Recording tp5.mov) ⁠
+[Video Dokumentasi](Screen recording tp5_1.mov & Screen recording tp5_2.mov & Screen recording tp5_3.mov & Screen recording tp5_4.mov &) 
+(video size is big because of that i divided it to 4 parts)⁠
